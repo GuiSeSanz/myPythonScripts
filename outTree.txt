@@ -1,0 +1,22 @@
+
+                                                                                        /-Saccharomyces cerevisiae, species
+                                                              /Saccharomycetaceae, family
+                                            /Ascomycota, phylum                         \-Eremothecium gossypii, species
+                                           |                 |
+                                           |                  \-Schizosaccharomyces pombe, species
+                                           |
+                                           |                                                                                                                       /-Rattus norvegicus, species
+                                           |                                                                                                     /Murinae, subfamily
+                                           |                                                                         /Euarchontoglires, superorder                 \-Mus musculus, species
+                       /Opisthokonta, no rank                                                                       |                           |
+                      |                    |                                                         /Amniota, no rank                           \-Homo sapiens, species
+                      |                    |                                                        |               |
+                      |                    |                                       /Tetrapoda, no rank               \-Gallus gallus, species
+                      |                    |                                      |                 |
+-Eukaryota, superkingdom                   |                  /Euteleostomi, no rank                 \-Xenopus tropicalis, species
+                      |                    |                 |                    |
+                      |                     \Bilateria, no rank                    \-Danio rerio, species
+                      |                                      |
+                      |                                       \-Drosophila melanogaster, species
+                      |
+                       \-Arabidopsis thaliana, species

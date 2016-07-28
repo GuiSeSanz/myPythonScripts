@@ -1,0 +1,296 @@
+# This output was generated with AUGUSTUS (version 3.2.2).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. König, L. Gerischer and L. Romoth.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Initialising the parameters using config directory /home/guillermo/Documentos/Augustus-3.2.2/config/ ...
+# fly version. Using default transition matrix.
+# Looks like Fastaseq_1.fsa is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 6999930, name = gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1 on both strands
+# start gene gi|318087636|gb|CM000054.5|Api.g1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	1	14649	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	1	14649	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g1.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	1	896	0.35	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	1067	6696	0.46	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	6828	7735	0.8	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	7997	10551	0.8	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	10783	12488	0.96	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	897	1066	0.34	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	897	1066	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	6697	6827	0.52	+	1	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	6697	6827	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	7736	7996	0.82	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	7736	7996	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	10552	10782	0.97	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	10552	10782	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	12489	12838	0.28	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	12489	14649	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	12836	12838	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	14649	14649	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g1.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g1";
+# protein sequence = [MSCNCPLNPSTGPTLASTCGGSSFMLFMGLLEVFLRSQCDLEDPCNRPLPPPTVNSRSEDNLQANTMDYGYHGVGGPL
+# TVTQFPYHPPLSYSILEAGKELGYGIADLNGRTHTGFAIAQTTSRNGSRLSTARAFLRPAKNRPNLHIMLNSTATRILFDNNKRAVGVEFVHDGKIHR
+# VSVAKEVVISGGAVNSPQILLNSGIGPREELNAVGVPVIHDLPGVGKNLHNHVAYTLAFTINDTDTTPLNWATAMEYLLFRDGLMSGTGISEVTAMIN
+# TKYANPKDDHPDVQLIFGGYLADCAETGMVGETKGNNRTIYIIPTYLHPKSRGYLRLRNNDPLSKPLIYPKYLSHPDDVAGLIEAIKFSIRLSETEAL
+# SRYDIFFL]
+# end gene gi|318087636|gb|CM000054.5|Api.g1
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g2
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	15347	18945	0.02	-	.	gi|318087636|gb|CM000054.5|Api.g2
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	15347	18945	0.02	-	.	gi|318087636|gb|CM000054.5|Api.g2.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	15347	15347	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	15347	16804	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	16796	16798	.	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	16805	16995	0.19	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	17130	17899	0.55	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	18206	18550	0.94	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	16796	16804	0.19	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	16996	17129	0.48	-	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	16996	17129	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	17900	18205	0.88	-	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	17900	18205	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	18551	18890	0.91	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	18551	18945	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	18888	18890	.	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	18945	18945	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g2.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g2";
+# protein sequence = [MNRISFISFSVLLVSVSAWPFRRRDVFDNAVDSPHGVIAHLQHFGEMLYRNPDNETGAIVANWHEGWDRNPEELGNYA
+# EGDILFPPQLGKNGLKAEAARWPGGVVPYMISPYFDTAQRNLIYEAMNDYHKYTCVKFKPYTGEESDYIRITAGNTGCWSSVGRIGGKQDVNLQVPGC
+# VLKKGTVIHELMHAIGFLHEQSRFERDEYVTIQWNNILRNHAGNFEKASKETTDAFGIGYDYGSVMHYSANAFSRNGQPTIVPKIS]
+# end gene gi|318087636|gb|CM000054.5|Api.g2
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g3
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	29346	37787	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g3
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	29346	37787	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g3.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	29346	29346	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	29346	29806	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	31035	31210	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	34572	34584	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	34581	34583	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	34585	34739	0.73	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	34980	35381	0.39	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	35758	36075	0.18	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	34581	34584	0.29	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	34740	34979	0.41	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	34740	34979	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	35382	35757	0.28	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	35382	35757	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	36076	36130	0.18	+	1	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	36076	37787	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	36128	36130	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	37787	37787	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g3.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g3";
+# protein sequence = [MEGSRYTAHTTGSGEKKSLDENGNPVQYNGERKKPRRKHTQEPNVIVYSAENVEGHRNIDDIEILINFIENKESKSKK
+# GKPGTINVALRRAKQRSTGDPAIDSRGDRRSWGTEEGQSIYCNDTGDDYASRRNSNKKINPEPEHETEFLVVTKKKKSKKQRRSSSGSRAQNLTTSGS
+# YLQNSRGFSNEYRTPLSPELRRKSASSMPPSVKYVYNSSKYVKSIFMA]
+# end gene gi|318087636|gb|CM000054.5|Api.g3
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g4
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	48146	50243	0.02	+	.	gi|318087636|gb|CM000054.5|Api.g4
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	48146	50243	0.02	+	.	gi|318087636|gb|CM000054.5|Api.g4.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	48146	48146	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	48146	48515	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	48210	48212	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	48516	48576	0.51	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	48210	48515	0.44	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	48577	48585	0.51	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	48577	50243	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	48583	48585	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	50243	50243	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g4.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g4";
+# protein sequence = [MLMSIDDNDMLNSDINNNSYHSYIEEQNETLFEHTDSTSLKPLSNFTIDSNSEQENSDNLEDEQRTNIEEENHEGYIP
+# LRTLLRNMFEEILGKYNGIARQSNMK]
+# end gene gi|318087636|gb|CM000054.5|Api.g4
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g5
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	54866	90605	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g5
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	54866	90605	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g5.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	54866	54866	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	54866	54922	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	57776	58165	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	60001	60218	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	60126	60128	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	60219	88838	0.01	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	88941	89083	0.93	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	60126	60218	0.28	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	88839	88940	0.01	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	88839	88940	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	89084	89161	0.93	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	89084	90605	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	89159	89161	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	90605	90605	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g5.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g5";
+# protein sequence = [MILLRTILMVLFTVMATGTPRSSIIYADDKVQNYLMKFGYLPQSDLETGNLRTDDQLTDAIKNLQVFLKKKKKKDIFY
+# YMKNNTVIYDTS]
+# end gene gi|318087636|gb|CM000054.5|Api.g5
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g6
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	124046	175196	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g6
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	124046	175196	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g6.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	124046	124046	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	124046	124092	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	130787	130820	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	130801	130803	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	130821	152932	0.01	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	153080	156938	0.47	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	157082	163493	0.55	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	163657	173274	0.1	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	130801	130820	0.01	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	152933	153079	0.51	+	1	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	152933	153079	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	156939	157081	0.53	+	1	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	156939	157081	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	163494	163656	0.55	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	163494	163656	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	173275	173446	0.23	+	1	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	173275	175196	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	173444	173446	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	175196	175196	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g6.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g6";
+# protein sequence = [MNNRYYTLRTEQPSGLDTGGVRFELSRALDLWARNSKLTFQEVNSDRADILVYFHRGYHGDGYPFDGRGQILAHAFFP
+# GRDRGGDVHFDEEEIWLLQGDNNEEGTSLFAVAAHEFGHSLGLAHSSVPGALMYPWYQGLSSNYELPEDDRHGIQQMYGECTGREALGQSTRWAATSG
+# TTYNTSNNYDKRWDDLQTMENKTNQAESLSKRRSASTP]
+# end gene gi|318087636|gb|CM000054.5|Api.g6
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g7
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	182132	189489	0.01	-	.	gi|318087636|gb|CM000054.5|Api.g7
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	182132	189489	0.01	-	.	gi|318087636|gb|CM000054.5|Api.g7.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	182132	182132	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	182132	184624	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	183981	183983	.	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	184625	184723	0.71	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	184980	185111	0.74	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	185400	185752	0.36	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	183981	184624	0.73	-	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	184724	184979	0.74	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	184724	184979	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	185112	185399	0.71	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	185112	185399	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	185753	185905	0.75	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	185753	185908	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	185903	185905	.	-	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	185997	186229	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	189163	189489	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	189489	189489	.	-	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g7.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g7";
+# protein sequence = [MERFKVVERETKTKAYSKEGLGAAQKLDPAQKEREEVSNWLANSIDALNLQIKRIKDDVEYYIESSQEPDFEENEYIY
+# DDIIGLDEVELSGVGIPSSATTDSNNSNETGGTPTSTNSGTSPIPSPPLSSTMHNHSSDSSTDNDKKTKPVKPTAVRPLLNSQASIPTTGSTATIKSN
+# LLSSSTPSKTIPMTPSHSSPSSTSNHIATTNAGNFATVAASHTNSQAIHSTSSKTSSHSSENGLLSSSSTSSVTSNVPQTISQQHNNPAPIQTTHVLH
+# NQQNQNHSSETEMTTPIPPSSSPQSSVSSRSSPLPANSCSPAPSTANGLIPKLPDGMSSLKSIAQQVIVRAGLEIPPSESNRNIFDSAKANNNNNNAT
+# SEAHIPPLLGVAPLGPVPLQKEHQLQFQMMEAAYYHMPHPSDSERLRSYLPRNLCPTPPYYQQVSYLFFENIMI]
+# end gene gi|318087636|gb|CM000054.5|Api.g7
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g8
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	193080	219595	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g8
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	193080	219595	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g8.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	193080	193080	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	193080	196386	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	193381	193383	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	193381	195426	0.48	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	195424	195426	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	202100	202817	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	204475	204580	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	205188	205369	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	206811	207550	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	210084	210801	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	211506	212537	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	213487	214657	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	214799	215909	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	215961	217087	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	218442	219595	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	219595	219595	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g8.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g8";
+# protein sequence = [MNQQPANNEEKLDKEKLGINDGNTNVSESTKETKEPVKKVVDVYDLPPLNLSSESDTDSEEEKQEAKESENAEKVKPT
+# EENAISPDQSKIVTSEPVAESIVEVEQNEEEKKQGAEIMDGIWDNFKTYAASLEMKESTNNFAIKEQEPETDVAFLRSIVLADHDYCVVWSDKEKEKD
+# APSKANIKEEANLSQGDQDYLNKMQTSPLDSNGIQNTNEDDPNKKKAKSPKKKKQGGSTSSSDSSSDSDSSSCSCGTNCSCSSSSSGSSSSSSSSSDS
+# DSSTSEGSPKKQSKRKKEKEGTQGAETELENKEVSPDKNGSTSVPAEPVCPPQLLLRESDLETEETETDEDFYDEHPQQLANKLLAEKRNQLMLLAAV
+# APASTESTMPLNNGLTDTDITVPSPDAIPAATEEDQSQQKKKVKTKKRKKGEKAKQRNATPTVESIKLNIPKAFYQNNPGYSASSPALMQSNITSNMS
+# TNDVHGMNAGVESQAGIIGQNMGGSGSEAENKRSSKRKRIPKRFYGDSSDDEVEKQPTVKWRKVDTPSFTPVSTVKTLPPRLPFGGKNMAYRPMENQP
+# ENVGVTTASPTESEEPADSSSDSSDSEVESSQQMQTHLTESNPPAPERPVNLYCYCQCPYDEVSEMIACDAEDCRIEWFHFECVGIMVPPKGKWYCPD
+# CRKKHGIVQNEDYFD]
+# end gene gi|318087636|gb|CM000054.5|Api.g8
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g9
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	220330	293529	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g9
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	220330	293529	0.01	+	.	gi|318087636|gb|CM000054.5|Api.g9.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	220330	220330	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	220330	221020	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	225869	226012	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	225953	225955	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	226013	226937	0.01	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	227035	231005	0.01	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	231171	271171	0.01	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	272072	287502	0.25	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	287793	287944	1	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	225953	226012	0.01	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	226938	227034	0.01	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	226938	227034	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	231006	231170	0.01	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	231006	231170	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	271172	272071	0.14	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	271172	272071	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	287503	287792	0.41	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	287503	287792	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	287945	291628	1	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	287945	293529	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	291626	291628	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	293529	293529	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g9.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g9";
+# protein sequence = [MLIKRDSVVQLVNPHRLHREDEVQRIRKAGGVVMPSMGTMRVNGVLGVSRAIGDVRYKPFVTGEPEVKSVPLDGTEDF
+# LVLATDGLTDYLNPKEILTILYHEIQRNPNGFKRTYQILLHWAKQGGSEDNITVVVVLLTPANAIAARPLNAHPYFRLQVNDILEKMNSKDKPLFMDI
+# DDAHNAINSNILKQSMISQESRDEDDGILAASNGKHENGDADYDYSDLGPETNVDAIDDVTMPVKNLSYEFYKDDDICHEDGRTDNDSNILDNRDMDE
+# SINANLNANTNIMTHEQITDNNLHEDNDDDDDDDDDEVDENDDDDNNDDELHQDNDDVPDDEVMVSKTNEDDIPENEINNCEKVNNEICEQLMENIVD
+# EKKTRVEGQADMPQDVVDEAGPVHYDESPPSPQANKPLQHALIHEADNVAESEDSEDEWNYYRVDPNKEKNSETNPVNEPEKTRNVEEESEISESENQ
+# PVEDTETKIQSGNVEEDIKCEDLKEESPELINIEISAEDKEEKLEKTEESSCNEEEDKLKDMDFQLNPNAAEFIPVSPQFMGTRMDLVEDFPVSGSPF
+# KQVPQMDDIQVPSQSEFEKEVCQRPREVDNEEKEYQNGDNLQHTDYSTDFLADGKQKGGAAPVSGNMDDSEISSTKAEFGDESSVSFLTASEFHRTGI
+# SAIDESFSSCEREYDIAKDPMAMSFTPSDFEAAFDKGVDLNAVHDLSNTDLEEANGILDKEEEEEEEEEEVMESPNLENDTVNDKMSNIMCNVVEKAA
+# EKSEIRAEFVNLSSQQDYSEDTFIEHADELKADTIDFLDLQPESSNRQESQEAARYDHSPFAENYSGEFESEKEAVSVDNEQPSSIDETKPMDEASED
+# AVLLGNESQKEICSNDDGNTPSSLSPIPDAMESDLAVAESGEIQSSKQVRSSLHPDAPEFTPENYNFQSFGMDSDDVCQVRATTDSYQAYSTEAGSAF
+# EIVKQDLVANIQFDEKEDEPVCTKPLVETKPDEEQHVVCARPLQTHSELTPPLSPQEEKRIHDIIYPVKSCVEEEVVESKEIPEEGKTIEDKMEEMME
+# SMKESMETNVSTEEIKSVELEEPMKESILNLSDSMQEFTGLESQLQPTEEEVFKAKIVEDLQEEIIKKEELIDVTEPEKSPEIAVESEYMIQEQKEVQ
+# EFPEVKEIKEMEIEQLKLKEPEEQMEIQEPEFKEFEVKEPEIKEPEIKEPEIKEPEIKEPELKEPELKEPEIKEPEMKESEIKEPEIKESEIKEPEIQ
+# EQKIKEIELEIKESEIKESEIKKSEIEELEIKEPEIKEPEIKEPEIKEPEIKEPEIKEPEIKEPEIKESEIKEIEVSSQKPEIKELLKEPEIKETEIK
+# EPEIEKVAEVSENKVVETAAIASATAAVVAGAAGAVAAQSKAKTKALGTKPTKTTTSKPTPTRSTPTSPSKTVSSTTRTSTAAAMKKPSTTTPSRPKD
+# LDASKKSTISSTTTSKSSVAKSASKTTTSTTATKSTSKTSVSTTSKPKPVASTASKPITVTDKKPTANGDVKSSNKSATATKSSSKASPLATKTTLVK
+# TSSTRASTGTTTAPKVRSSSANKLNTTAKASSTTISTTASNRPKTAPSSGTASKPRMSLNKLPAIDKQVKETANKQISMGRTSTPASKTTSRLSMTSS
+# STTTIKRASLTTKTTTVASPTKKSTPVSKTSKTSLSGKTGGDKGKILQNGVSENVEINTIIDDMPKKDLSPVVTPNDNQLIMSSD]
+# end gene gi|318087636|gb|CM000054.5|Api.g9
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g10
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	307420	312855	0.15	+	.	gi|318087636|gb|CM000054.5|Api.g10
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	307420	312855	0.15	+	.	gi|318087636|gb|CM000054.5|Api.g10.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	307420	307420	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	307420	307510	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	307624	307838	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	307634	307636	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	307839	309630	0.99	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	307634	307838	0.99	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	309631	311402	0.95	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	309631	312855	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	311400	311402	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	312855	312855	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g10.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g10";
+# protein sequence = [MAKAPAVGIDLGTTYSCVGVFQHGKVEIIANDQGNRTTPSYVAFTETERLIGDAAKNQVAMNPNNTIFDAKRLIGRRF
+# EDPTVQADMKHWPFTVVNDGGKPKIQVYYKGEAKTFFPEEVSSMVLVKMKETAEAYLGKTVSNAVITVPAYFNDSQRQATKDAGTISGLNVLRIINEP
+# TAAAIAYGLDKKTTSERNVLIFDLGGGTFDVSILTIEDGIFEVKSTAGDTHLGGEDFDNRMVNHFVQEFKRKYKKDLTANKRALRRLRTACERAKRTL
+# SSSTQASIEIDSLYEGIDFYTSITRARFEELCADLFRGTLEPVEKSLRDAKMDKAQIHDIVLVGGSTRIPKIQKLLQDFFNGKELNKSINPDEAVAYG
+# AAVQAAILHGDKSEEVQDLLLLDVTPLSLGIETAGGVMTALIKRNTTIPTKQTQTFTTYADNQPGVLIQVYEGERAMTKDNNLLGKFELSGIPPAPRG
+# VPQIEVTFDIDANGILNVSAVDKSTGKENKITITNDKGRLSKEDIERMVNEAEKYRSEDEKQKETIAAKNGLESYCFNMKSTVEDEKLKDKISASDKQ
+# VVLDKCNDIIKWLDANQLADKEEYEHKQKELEAICNPIVTKLYQGTGGMPGGMPGGMPGGMPGGMPGGFPGAGGGAPGGGASGPTIEEVD]
+# end gene gi|318087636|gb|CM000054.5|Api.g10
+###
+# start gene gi|318087636|gb|CM000054.5|Api.g11
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	gene	320990	329410	0.03	+	.	gi|318087636|gb|CM000054.5|Api.g11
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	transcript	320990	329410	0.03	+	.	gi|318087636|gb|CM000054.5|Api.g11.t1
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tss	320990	320990	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	320990	321552	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	321849	322022	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	start_codon	321860	321862	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	intron	322023	328625	0.97	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	321860	322022	1	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	CDS	328626	328936	0.77	+	2	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	exon	328626	329410	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	stop_codon	328934	328936	.	+	0	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+gi|318087636|gb|CM000054.5|ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragement_1	AUGUSTUS	tts	329410	329410	.	+	.	transcript_id "gi|318087636|gb|CM000054.5|Api.g11.t1"; gene_id "gi|318087636|gb|CM000054.5|Api.g11";
+# protein sequence = [MSSRVVKNAPKLNGSVDGRETWSGKVDFLLSVIGFAVDLANVWRFPYLCYKNGGGIGYAVVLIAFYVDFYYNVIIAWA
+# LRYFFASFASLLPWTTCDNPWNTLHCRTFDTNISYMFDDSYFVDTYPGNSSLVEDRLDRNSNQGYNSTWYTSAAQEYFK]
+# end gene gi|318087636|gb|CM000054.5|Api.g11
+###

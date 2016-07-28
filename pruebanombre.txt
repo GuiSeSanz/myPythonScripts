@@ -1,0 +1,144 @@
+# This output was generated with AUGUSTUS (version 3.2.2).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. König, L. Gerischer and L. Romoth.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Initialising the parameters using config directory /home/guillermo/Documentos/Augustus-3.2.2/config/ ...
+# fly version. Using default transition matrix.
+# Looks like Fastaseq_0.fsa is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 6999860, name = ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1 on both strands
+# start gene ApismelliferastrainDH4linkageg.g1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	1	15195	0.03	-	.	ApismelliferastrainDH4linkageg.g1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	1	15195	0.03	-	.	ApismelliferastrainDH4linkageg.g1.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	1	650	0.13	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	986	3857	0.6	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	4018	4079	1	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	4231	10315	0.7	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	10535	15102	0.91	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	651	985	0.43	-	1	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	651	985	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	3858	4017	1	-	2	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	3858	4017	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	4080	4230	0.7	-	0	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	4080	4230	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	10316	10534	0.91	-	0	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	10316	10534	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	15103	15120	0.91	-	0	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	15103	15195	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	15118	15120	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	15195	15195	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g1.t1"; gene_id "ApismelliferastrainDH4linkageg.g1";
+# protein sequence = [MKYRRADKDSQKPVVANYQVTVAKSVQQIVKKYTPKAPKKTYYEDRFIKFNYNLEAANYLLKKRNENQLHRDEIDVFK
+# QGRLVDWGSRNIIAAAVHDIVMLYNGQNASDNTELENVEISNISALKWNHAGTKLAICTKSSRVNLYCVNSQKVIWTSPCCGKNYLPLCYSRCICWPQ
+# DDRYVITTRSFQALAWHPYESGHLCIGGGYGNASLSLWNVNTLVPEGYRNVYFHGAVKNLAWNKRSAELVVNWSYFVQQAECTLMPVLGSLDRVVDMI
+# MVDKDLQVNSIMWNPDHTQL]
+# end gene ApismelliferastrainDH4linkageg.g1
+###
+# start gene ApismelliferastrainDH4linkageg.g2
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	24946	28030	0.37	+	.	ApismelliferastrainDH4linkageg.g2
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	24946	28030	0.37	+	.	ApismelliferastrainDH4linkageg.g2.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	24946	24946	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	24946	25103	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	26382	28030	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	27547	27549	.	+	0	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	27547	27771	0.58	+	0	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	stop_codon	27769	27771	.	+	0	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tts	28030	28030	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g2.t1"; gene_id "ApismelliferastrainDH4linkageg.g2";
+# protein sequence = [MHLSCIIFNERRRYNNFRDFFFSFFFSFFFSKRNLEFCVRASSSEGVAVTSSLQDSRGLVTSMRAQAMDLRVNW]
+# end gene ApismelliferastrainDH4linkageg.g2
+###
+# start gene ApismelliferastrainDH4linkageg.g3
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	28913	52335	0.01	-	.	ApismelliferastrainDH4linkageg.g3
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	28913	52335	0.01	-	.	ApismelliferastrainDH4linkageg.g3.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tts	28913	28913	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	28913	30930	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	stop_codon	30578	30580	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	30931	51534	0.17	-	.	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	30578	30930	0.43	-	2	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	51535	51661	0.36	-	0	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	51535	51681	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	51659	51661	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	52076	52335	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	52335	52335	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g3.t1"; gene_id "ApismelliferastrainDH4linkageg.g3";
+# protein sequence = [MIDRQRISTSRNVNENDRARKEHFRRFGNSDHPVNGDEITAEVPRLKPSFARLLAFSSSSRSKNERTEPEHTERRAKE
+# TSVALLRNETSEIYQLDNFRRLESIIGDRSRPWRSSQRVITRRLRARSSLIRGGRGRVQSTEFSEAAIHSSHLARIMDPSS]
+# end gene ApismelliferastrainDH4linkageg.g3
+###
+# start gene ApismelliferastrainDH4linkageg.g4
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	78012	83615	0.01	-	.	ApismelliferastrainDH4linkageg.g4
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	78012	83615	0.01	-	.	ApismelliferastrainDH4linkageg.g4.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tts	78012	78012	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	78012	78528	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	79852	80635	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	stop_codon	79862	79864	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	79862	80293	1	-	0	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	80291	80293	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	82460	83615	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	83615	83615	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g4.t1"; gene_id "ApismelliferastrainDH4linkageg.g4";
+# protein sequence = [MRLVRLISKAERSREIAIEASHAAIRRRRLRLRLRSRRPHFPRHSRHRRRRRRRSQAERRETRSCTLSSGRPRSQRSE
+# IVFALRCRRLVTRSFSHLLLISPRMRLCRPLLSLLILYTPRGNGERLADFSKVFTVDWILSRIRG]
+# end gene ApismelliferastrainDH4linkageg.g4
+###
+# start gene ApismelliferastrainDH4linkageg.g5
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	161610	192535	0.01	+	.	ApismelliferastrainDH4linkageg.g5
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	161610	192535	0.01	+	.	ApismelliferastrainDH4linkageg.g5.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	161610	161610	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	161610	162653	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	168915	169716	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	173909	174390	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	181673	181927	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	183577	184565	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	184824	185183	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	185066	185068	.	+	0	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	185184	187745	0.5	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	187911	190532	0.12	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	185066	185183	0.48	+	0	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	187746	187910	0.47	+	2	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	187746	187910	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	190533	190579	0.11	+	2	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	190533	192535	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	stop_codon	190577	190579	.	+	0	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tts	192535	192535	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g5.t1"; gene_id "ApismelliferastrainDH4linkageg.g5";
+# protein sequence = [MATVNVYIERDEPLVSAEMLRLSFAPTVYGVSKKTGQRGVLVVVSPGGGGGGGRGAFARHLRARIPTPLRIRTCVFAR
+# QRMCRYARAAAPIPIRRRKNLELKRLKFPSH]
+# end gene ApismelliferastrainDH4linkageg.g5
+###
+# start gene ApismelliferastrainDH4linkageg.g6
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	199790	213564	0.03	+	.	ApismelliferastrainDH4linkageg.g6
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	199790	213564	0.03	+	.	ApismelliferastrainDH4linkageg.g6.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	199790	199790	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	199790	200025	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	204742	205070	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	204921	204923	.	+	0	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	intron	205071	211556	0.19	+	.	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	204921	205070	0.89	+	0	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	211557	211655	0.21	+	0	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	211557	213564	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	stop_codon	211653	211655	.	+	0	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tts	213564	213564	.	+	.	transcript_id "ApismelliferastrainDH4linkageg.g6.t1"; gene_id "ApismelliferastrainDH4linkageg.g6";
+# protein sequence = [MAEGDLGLSGPVVAAYESYWPAKSQVILGSRCDNAGGNQVSVGVSLPRQEIYLMPEKNQNGTCCFATTIESTQKISKI
+# EIIT]
+# end gene ApismelliferastrainDH4linkageg.g6
+###
+# start gene ApismelliferastrainDH4linkageg.g7
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	gene	214437	220569	0.01	-	.	ApismelliferastrainDH4linkageg.g7
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	transcript	214437	220569	0.01	-	.	ApismelliferastrainDH4linkageg.g7.t1
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tts	214437	214437	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	214437	217046	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	stop_codon	216017	216019	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	CDS	216017	216823	0.11	-	0	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	start_codon	216821	216823	.	-	0	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	exon	219602	220569	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+ApismelliferastrainDH4linkagegroup1,wholegenomeshotgunsequence_fragment_0	AUGUSTUS	tss	220569	220569	.	-	.	transcript_id "ApismelliferastrainDH4linkageg.g7.t1"; gene_id "ApismelliferastrainDH4linkageg.g7";
+# protein sequence = [MKVVQRIRLKNSLSLPTDLRNDRRKDAVPKYTILKRNPQLYRDDVATTVAVNTGVDEVAERKVVSKSIESLSTSSNLC
+# QGSDAKPDDRCNPFVSGSGNNSCFKQEKSSRKGRVSDKATVCATPAHNSGGAGCGRPPGGGIQARTPLVPAKCSNSNVNRDGQECHAEATDALRKRVG
+# GGAGNPAPSTSTELSCRGKRQPRTKFCGSRNNLNNKERGCPDDERQNCSQRWPRRSNDDRIERRFSKGRRLFIILVKVLGIIFLYYIVIKTD]
+# end gene ApismelliferastrainDH4linkageg.g7
+###
