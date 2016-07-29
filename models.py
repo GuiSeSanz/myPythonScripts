@@ -62,7 +62,7 @@ def model2Tree(modelIDList):
     return
     
 if __name__ == "__main__":
-    inputfile = "models.txt"
+    inputfile = "modelsSP.txt"
     filepath = os.path.abspath(inputfile)
     modelIDList = model_organisms(filepath) 
     model2Tree(modelIDList)

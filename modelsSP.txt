@@ -1,0 +1,10 @@
+Mus musculus
+Rattus norvegicus
+Saccharomyces cerevisiae
+Schizosaccharomyces pombe
+Drosophila melanogaster
+Danio rerio
+Gallus gallus
+Arabidopsis thaliana
+Homo sapiens
+Xenopus tropicalis

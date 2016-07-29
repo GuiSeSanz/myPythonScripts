@@ -5,7 +5,9 @@ Created on Mon Jul 25 09:22:50 2016
 @author: guillermo
 """
 
-import re
+#==============================================================================
+# import re
+#==============================================================================
 import random as rnd
 from Bio import Entrez
 from GeneClass import Gene
@@ -59,7 +61,6 @@ for gene in Gene:
                 gene.addTaxonomy(i)
            # gene.Taxonomy =  "".join(taxonomy.split())
             continue
-        
         
         #mol_type
         if "/mol_type=" in line:
@@ -144,7 +145,7 @@ def comapre2taxonomies(taxonomy1, taxonomy2):
 
 
 
-NCBI = True
+NCBI = False
 if NCBI :
     from ete3 import NCBITaxa
     ncbi = NCBITaxa()
