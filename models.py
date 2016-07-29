@@ -42,10 +42,10 @@ def AddmyID(modelIDList, ID, filepath):
          name2taxID = ncbi.get_name_translator(ID)
          modelIDList.append(int(name2taxID[ID][0]))
          
-    tree = ncbi.get_topology(modelIDList)
-    print tree.get_ascii(attributes=["sci_name", "rank"])
+    tree = model2Tree(modelIDList)
+    #print tree.get_ascii(attributes=["sci_name", "rank"])
     
-    outfile = "outTree.txt"
+    outfile = "outTree.tmp"
     out = open(outfile, "w") 
     for line in tree.get_ascii(attributes=["sci_name", "rank"]):
         out.write(line)        
@@ -59,10 +59,11 @@ def model2Tree(modelIDList):
     tree = ncbi.get_topology(modelIDList)
     print tree.get_ascii(attributes=["sci_name", "rank"])
     
-    return
+    return tree
     
 if __name__ == "__main__":
-    inputfile = "modelsSP.txt"
+    #inputfile = "modelsSP.txt"
+    inputfile = "modelsID.txt"
     filepath = os.path.abspath(inputfile)
     modelIDList = model_organisms(filepath) 
     model2Tree(modelIDList)
