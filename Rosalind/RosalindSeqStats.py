@@ -6,7 +6,8 @@ Created on Fri Jul 29 10:07:55 2016
 """
 
 from __future__ import division
-
+import re
+from Bio.Seq import Seq
 
 class IterRegistry(type):
     def __iter__(cls):
@@ -79,20 +80,29 @@ def Complementary(SequenceObject):
 
     return    
     
+def tranlatemRNA(SequenceObject):
+    myseq = Seq(SequenceObject.DNAfasta)
+    print myseq.translate()
+    return    
+    
 def calculateStats(DNA):
     SEQUENCE = Sequence(DNA)
     seq_composition(SEQUENCE)
     seq_GCpercent(SEQUENCE)
     seq_RNAandReverse(SEQUENCE)
     Complementary(SEQUENCE)
+    tranlatemRNA(SEQUENCE)
     return SEQUENCE
+
+
     
 if __name__ == "__main__":
-    seq = "AAAACCCGGT"
+    seq = "GATATATGCATATACTT"
     my_sequence = calculateStats(seq)
     attributes = vars(my_sequence)
     for item in attributes.items():
-        
         print "%s: %s" % item
+    
+    
 
 
