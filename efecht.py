@@ -161,7 +161,7 @@ if NCBI :
         
     #taxid2name = ncbi.get_taxid_translator([9606, 9443])
     #print taxid2name
-tree = True
+tree = False
 if tree :    
     tree = ncbi.get_topology(taxIDlist)
     print tree.get_ascii(attributes=["sci_name", "rank"])
