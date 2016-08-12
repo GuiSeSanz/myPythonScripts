@@ -6,9 +6,6 @@ Created on Mon Aug  1 12:19:05 2016
 """
 import os
 import numpy as np
-#=============================================================================
-# from __future__ import print_function
-#=============================================================================
 
 def formatFasta(inpath):
      infile = open(inpath, 'r')
@@ -32,14 +29,11 @@ def createMatrix():
     for line in infile:
         if line=='\n': continue
         if (matrix == []) and (not line.startswith('>')):
-#=============================================================================
-#             print len(line)
-#=============================================================================
             col = len(line[:-1])
             for f in range(row):
                 matrix.append( [0] * col)
         if not line.startswith('>'):
-            for char in range(len(line[:-1])):
+            for char in range(len(line)):
                 if line[char] == 'A':
                     matrix[0][char] +=1
                 if line[char] == 'C':
@@ -83,7 +77,7 @@ def printable(matrix, sequence):
     
 if __name__ == '__main__':
     inputFile = "matrix.txt"
-    inputFile = "rosalind_cons2.txt"
+    inputFile = "rosalind_cons4.txt"
     inpath = os.path.abspath(inputFile)
     formatFasta(inpath)
     matrix = createMatrix()
